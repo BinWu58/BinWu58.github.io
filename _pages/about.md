@@ -34,7 +34,7 @@ Selected Publications
 Working Papers
 ------
 1. Kong X, **Wu B***, Ye W. Staleness Factors and Volatility Estimation at High Frequencies. **Journal of the American Statistical Association**, major revision required. [[arXiv:2410.07607](https://arxiv.org/pdf/2410.07607)]
-1. Kong X, Liu C, **Wu B***. Data Synchronization at High Frequencies. **Management Science**, under review. [[arXiv:2507.12220](https://arxiv.org/pdf/2507.12220)]
+1. Kong X, Liu C, **Wu B***. Data Synchronization at High Frequencies. **Management Science**, major revision required. [[arXiv:2507.12220](https://arxiv.org/pdf/2507.12220)]
 1. Kong X, **Wu B***, Ye W. High-Dimensional Binary Variates: Maximum Likelihood Estimation with Nonstationary Covariates and Factors. **Journal of Econometrics**, under review. [[arXiv:2505.22417](https://arxiv.org/pdf/2505.22417)]
 1. Xia W, Ye W, **Wu B***, Zhou Y. Option-implied systemic risk measures. **Journal of Banking and Finance**, major revision required.
 1. Xia W, Ye W, **Wu B***. Quadratic diffusion or time-varying jump for VIX term structure? **Quantitative Finance**, minor revision required.
