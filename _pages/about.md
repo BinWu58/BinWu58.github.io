@@ -42,6 +42,7 @@ Working Papers
 1. Chen P, Song Y*, **Wu B**, Ye W. Intra-Horizon Risk: The Role of Stochastic Volatility.
 1. Cao C, Chen P, **Wu B***. How to Invest and When to Adjust: A Real Options Model for Cybersecurity Investment Decisions.
 
+
 Academic service
 ------
 **Reviewer*** Multiple times
