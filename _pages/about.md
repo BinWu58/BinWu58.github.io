@@ -23,15 +23,16 @@ My research interests include:
 
 Selected Publications
 ======
-1. **Wu B**, Chen P, Ye W*. Variance swaps with mean reversion and multi-factor variance. **European Journal of Operational Research**, 2024, 315(1): 191-212. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723009451)]
-1. Ye W, Zhou Y, Chen P, **Wu B**. A simulation-based method for estimating systemic risk measures. **European Journal of Operational Research**, 2024, 313(1): 312-324. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723006616)]
-1. **Wu B**, Chen P, Ye W*. Jump activity analysis of the equity index and the corresponding volatility: Evidence from the Chinese market. **Journal of Futures Markets**, 2021, 41(7): 1055-1073. [[pdf](https://onlinelibrary.wiley.com/doi/full/10.1002/fut.22209)]
-1. Ye W, **Wu B**, Chen P*. Pricing VIX derivatives using a stochastic volatility model with a flexible jump structure. **Probability in the Engineering and Informational Sciences**, 2023, 31(7): 245-274. [[pdf](https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/pricing-vix-derivatives-using-a-stochastic-volatility-model-with-a-flexible-jump-structure/6C4C46FE4B9703FF790CB351D2E909C2)]
-1. Ye W, Xia W, **Wu B***, Chen P*. Using implied volatility jumps for realized volatility forecasting: Evidence from the Chinese market. **International Review of Financial Analysis**, 2022, 83: 102277. [[pdf](https://www.sciencedirect.com/science/article/pii/S1057521922002320)]
+### Selected Publications
+1. **Wu B**, Chen P, Ye W*. *Variance Swaps with Mean Reversion and Multi-Factor Variance.* European Journal of Operational Research, 2024, 315(1), 191–212. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723009451)]
+2. Ye W, Zhou Y, Chen P, **Wu B**. *A Simulation-Based Method for Estimating Systemic Risk Measures.* European Journal of Operational Research, 2024, 313(1), 312–324. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723006616)]
+3. **Wu B**, Chen P, Ye W*. *Jump Activity Analysis of the Equity Index and the Corresponding Volatility: Evidence from the Chinese Market.* Journal of Futures Markets, 2021, 41(7), 1055–1073. [[pdf](https://onlinelibrary.wiley.com/doi/full/10.1002/fut.22209)]
+4. Ye W, **Wu B**, Chen P*. *Pricing VIX Derivatives Using a Stochastic Volatility Model with a Flexible Jump Structure.* Probability in the Engineering and Informational Sciences, 2023, 37(1), 245–274. [[pdf](https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/pricing-vix-derivatives-using-a-stochastic-volatility-model-with-a-flexible-jump-structure/6C4C46FE4B9703FF790CB351D2E909C2)]
+5. Ye W, Xia W, **Wu B***, Chen P*. *Using Implied Volatility Jumps for Realized Volatility Forecasting: Evidence from the Chinese Market.* International Review of Financial Analysis, 2022, 83, 102277. [[pdf](https://www.sciencedirect.com/science/article/pii/S1057521922002320)]
 
 **Note**: * denotes the corresponding author
 
-### Working Papers
+Working Papers
 ------
 1. Kong X, **Wu B***, Ye W. *Staleness Factors and Volatility Estimation at High Frequencies.* Journal of the American Statistical Association, **revise & resubmit (minor revision)**. [[arXiv:2410.07607](https://arxiv.org/pdf/2410.07607)]
 2. Kong X, Liu C, **Wu B***. *Data Synchronization at High Frequencies.* Management Science, **revise & resubmit (major revision)**. [[arXiv:2507.12220](https://arxiv.org/pdf/2507.12220)]
