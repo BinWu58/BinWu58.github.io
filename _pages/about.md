@@ -24,7 +24,7 @@ My research interests include:
 Selected Publications
 ======
 ### Selected Publications
-1. Kong X, **Wu B***, Ye W. *Staleness Factors and Volatility Estimation at High Frequencies.* Journal of the American Statistical Association, **Forthcoming**. [[arXiv:2410.07607](https://arxiv.org/pdf/2410.07607)]
+1. Kong X, **Wu B**<sup>*</sup>, Ye W. _Staleness Factors and Volatility Estimation at High Frequencies._ Journal of the American Statistical Association, **Forthcoming**. [[arXiv:2410.07607](https://arxiv.org/pdf/2410.07607)]
 1. **Wu B**, Chen P, Ye W*. *Variance Swaps with Mean Reversion and Multi-Factor Variance.* European Journal of Operational Research, 2024, 315(1), 191–212. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723009451)]
 1. Ye W, Zhou Y, Chen P, **Wu B**. *A Simulation-Based Method for Estimating Systemic Risk Measures.* European Journal of Operational Research, 2024, 313(1), 312–324. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723006616)]
 1. **Wu B**, Chen P, Ye W*. *Jump Activity Analysis of the Equity Index and the Corresponding Volatility: Evidence from the Chinese Market.* Journal of Futures Markets, 2021, 41(7), 1055–1073. [[pdf](https://onlinelibrary.wiley.com/doi/full/10.1002/fut.22209)]
