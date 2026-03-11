@@ -48,7 +48,7 @@ Working Papers
 Academic service
 ------
 **Reviewer*** Multiple times
-- Journal of Business and Economic Statistics
+- Journal of Business and Economic Statistics*
 - Journal of Futures Markets
 - International Review of Financial Analysis
 - Systems Engineering - Theory & Practice*
