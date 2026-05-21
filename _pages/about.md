@@ -11,7 +11,7 @@ I am currently a Associate Research Fellow at the School of Management, Universi
 
 My research focuses on developing statistical methods for application in financial data and developing generative AI algorithms (diffusion models and reinforcement learning) for application in finance and management. My work is divided into three streams: big data issues in empirical asset pricing, missing data in high-dimensional datasets, and causal inference, along with diffusion model applications for data augmentation.
 
-My work has been appeared in the European Journal of Operational Research, Journal of Futures Markets, and International Review of Financial Analysis. Moreover, I have multiple manuscripts under revision at journals such as Journal of the American Statistical Association, Management Science, Journal of Banking and Finance, and Quantitative Finance.
+%My work has been appeared in the European Journal of Operational Research, Journal of Futures Markets, and International Review of Financial Analysis. Moreover, I have multiple manuscripts under revision at journals such as Journal of the American Statistical Association, Management Science, Journal of Banking and Finance, and Quantitative Finance.
 
 Research Interest
 ======
