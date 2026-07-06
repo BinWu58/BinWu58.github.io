@@ -25,6 +25,7 @@ Selected Publications
 ======
 ### Selected Publications
 1. Kong X, **Wu B**<sup>*</sup>, Ye W. _Staleness Factors and Volatility Estimation at High Frequencies._ Journal of the American Statistical Association, **Forthcoming**. [[arXiv:2410.07607](https://arxiv.org/pdf/2410.07607)]
+1. Xia W, Ye W, **Wu B**<sup>*</sup>, Zhou Y. _Option-Implied Systemic Risk Measures._ Journal of Banking & Finance, **Forthcoming**.
 1. **Wu B**, Chen P, Ye W<sup>*</sup>. _Variance Swaps with Mean Reversion and Multi-Factor Variance._ European Journal of Operational Research, 2024, 315(1), 191–212. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723009451)]
 1. Ye W, Zhou Y, Chen P<sup>*</sup>, **Wu B**. _A Simulation-Based Method for Estimating Systemic Risk Measures._ European Journal of Operational Research, 2024, 313(1), 312–324. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723006616)]
 1. **Wu B**, Chen P, Ye W<sup>*</sup>. _Jump Activity Analysis of the Equity Index and the Corresponding Volatility: Evidence from the Chinese Market._ Journal of Futures Markets, 2021, 41(7), 1055–1073. [[pdf](https://onlinelibrary.wiley.com/doi/full/10.1002/fut.22209)]
@@ -38,9 +39,8 @@ Working Papers
 1. Kong X, Liu C, **Wu B**<sup>*</sup>. _Data Synchronization at High Frequencies._ Management Science, **revise & resubmit (major revision)**. [[arXiv:2507.12220](https://arxiv.org/pdf/2507.12220)]
 1. Cao C, Chen P, **Wu B**<sup>*</sup>. _How to Invest and When to Adjust: A Real Options Model for Cybersecurity Investment Decisions._ Information Systems Research, **revise & resubmit (major revision)**.
 1. Kong X, **Wu B**<sup>*</sup>, Ye W. _High-Dimensional Binary Variates: Maximum Likelihood Estimation with Nonstationary Covariates and Factors._ Journal of Econometrics, **revise & resubmit (major revision)**. [[arXiv:2505.22417](https://arxiv.org/pdf/2505.22417)]
-1. Xia W, Ye W, **Wu B**<sup>*</sup>, Zhou Y. _Option-Implied Systemic Risk Measures._ Journal of Banking & Finance, **revise & resubmit (minor revision)**.
 1. Xia W, Ye W, **Wu B**<sup>*</sup>. _Quadratic Diffusion or Time-Varying Jump for the VIX Term Structure?_ Quantitative Finance, **revise & resubmit (minor revision)**.
-1. Ye W, Yun Y, **Wu B**<sup>*</sup>. _The Information Content of Volatility Factors._ International Journal of Forecasting, **revise & resubmit (major revision)**.
+1. Ye W, Yun Y, **Wu B**<sup>*</sup>. _The Information Content of Volatility Factors._ International Journal of Forecasting, **revise & resubmit (minor revision)**.
 1. Chen P, Song Y<sup>*</sup>, **Wu B**, Ye W. _Intra-Horizon Risk: The Role of Stochastic Volatility._ Working paper.
 
 
