@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Associate Research Fellow at the School of Management, University of Science and Technology of China. My research interest includes data science, financial econometrics, asset pricing, high-dimensional statistical inference, risk management, and artificial intelligence. I received my Ph.D. from the University of Science and Technology of China in 2023, under the supervision of Professors Yaohua Wu (deceased) and [Wuyi Ye](https://bs.ustc.edu.cn/chinese/profile-86.html).
+I am currently a Assistant Professor at the School of Management, University of Science and Technology of China. My research interest includes data science, financial econometrics, asset pricing, high-dimensional statistical inference, risk management, and artificial intelligence. I received my Ph.D. from the University of Science and Technology of China in 2023, under the supervision of Professors Yaohua Wu (deceased) and [Wuyi Ye](https://bs.ustc.edu.cn/chinese/profile-86.html).
 
 My research focuses on developing statistical methods for application in financial data and developing generative AI algorithms (diffusion models and reinforcement learning) for application in finance and management. My work is divided into three streams: big data issues in empirical asset pricing, missing data in high-dimensional datasets, and causal inference, along with diffusion model applications for data augmentation.
 
